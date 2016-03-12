@@ -7,6 +7,6 @@ It can be essentially impossible to delete history.
 
 ##github flavoured markdown
 ###checkboxes
--[] do this 
--[] do this too
+- [] do this 
+- [] do this too
 
